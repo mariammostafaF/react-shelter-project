@@ -6,11 +6,14 @@ import SuccessfulAdoption from "./components/SuccessfulAdoption";
 import About from "./components/About";
 import Partners from "./components/Partners";
 import Contact from "./components/ContactUs";
+import Sponser from "./components/Sponser";
+import Payment from "./components/Payment";
 
 
 
 import "./stylesheet.css";
 import WebFont from "webfontloader";
+import AdoptFos from "./components/AdoptFos";
 
 WebFont.load({
   google: {
@@ -26,12 +29,15 @@ WebFont.load({
 const App = () => {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <Services/>
-      <SuccessfulAdoption/>
+      <Navbar/>
+      <Hero/>
       <About/>
       <Partners/>
+      <SuccessfulAdoption/>
+      <Services/>
+      <AdoptFos/>
+      <Sponser/>
+      <Payment/>
       <Contact/>
     </>
   );
