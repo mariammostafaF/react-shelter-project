@@ -11,31 +11,31 @@ const Partners = () => {
       <div className="row">
         <div className="col-lg-4">
           <div className="logo">
-            <img src="./assets/Pics/logo.jpg" alt="PetSmart Charities Logo" />
+            <img src="./Pics/logo.jpg" alt="PetSmart Charities Logo" />
             <p>PetSmart Charities: A leading funder of animal welfare.</p>
           </div>
         </div>
         <div className="col-lg-4">
           <div className="logo">
-            <img src="./assets/Pics/logo2.png" alt="Humane Society Logo" />
+            <img src="./Pics/logo2.png" alt="Humane Society Logo" />
             <p>Humane Society: A national organization focused on animal welfare.</p>
           </div>
         </div>
         <div className="col-lg-4">
           <div className="logo">
-            <img src="./assets/Pics/logo3.png" alt="Blue Buffalo Logo" />
+            <img src="./Pics/logo3.png" alt="Blue Buffalo Logo" />
             <p>Blue Buffalo: A premium pet food brand.</p>
           </div>
         </div>
         <div className="col-lg-4">
           <div className="logo">
-            <img src="./assets/Pics/logo4.png" alt="VCA Animal Hospitals Logo" />
+            <img src="./Pics/logo4.png" alt="VCA Animal Hospitals Logo" />
             <p>VCA Animal Hospitals: A network of animal hospitals across the country.</p>
           </div>
         </div>
         <div className="col-lg-4">
           <div className="logo">
-            <img src="./assets/Pics/logo5.png" alt="Local Veterinary Clinics Logo" />
+            <img src="./Pics/logo5.png" alt="Local Veterinary Clinics Logo" />
             <p>Local Veterinary Clinics: Partnering with local vets can provide essential medical support.</p>
           </div>
         </div>

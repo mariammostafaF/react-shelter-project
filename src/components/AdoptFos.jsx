@@ -15,59 +15,28 @@ const AdoptFos = () => {
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop1.jpg" className="img-fluid" alt="Animal 1" />
+                <img src="./Pics/foradop1.jpg" className="img-fluid" alt="Animal 1" />
               </div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop10.jpg" className="img-fluid" alt="Animal 2" />
+                <img src="./Pics/foradop10.jpg" className="img-fluid" alt="Animal 2" />
               </div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop11.jpg" className="img-fluid" alt="Animal 3" />
+                <img src="./Pics/foradop11.jpg" className="img-fluid" alt="Animal 3" />
               </div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop12.jpg" className="img-fluid" alt="Animal 4" />
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="row mt-4">
-          <div className="col-lg-3">
-            <div className="card border-0 bg-light">
-              <div className="cardbody">
-                <img src="./assets/Pics/foradop2.jpg" className="img-fluid" alt="Animal 5" />
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3">
-            <div className="card border-0 bg-light">
-              <div className="cardbody">
-                <img src="./assets/Pics/foradop3.jpg" className="img-fluid" alt="Animal 6" />
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3">
-            <div className="card border-0 bg-light">
-              <div className="cardbody">
-                <img src="./assets/Pics/foradop4.jpg" className="img-fluid" alt="Animal 7" />
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-3">
-            <div className="card border-0 bg-light">
-              <div className="cardbody">
-                <img src="./assets/Pics/foradop5.jpg" className="img-fluid" alt="Animal 8" />
+                <img src="./Pics/foradop12.jpg" className="img-fluid" alt="Animal 4" />
               </div>
             </div>
           </div>
@@ -77,28 +46,59 @@ const AdoptFos = () => {
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop6.jpg" className="img-fluid" alt="Animal 9" />
+                <img src="./Pics/foradop2.jpg" className="img-fluid" alt="Animal 5" />
               </div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop7.jpg" className="img-fluid" alt="Animal 10" />
+                <img src="./Pics/foradop3.jpg" className="img-fluid" alt="Animal 6" />
               </div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop8.jpg" className="img-fluid" alt="Animal 11" />
+                <img src="./Pics/foradop4.jpg" className="img-fluid" alt="Animal 7" />
               </div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="card border-0 bg-light">
               <div className="cardbody">
-                <img src="./assets/Pics/foradop9.jpg" className="img-fluid" alt="Animal 12" />
+                <img src="./Pics/foradop5.jpg" className="img-fluid" alt="Animal 8" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row mt-4">
+          <div className="col-lg-3">
+            <div className="card border-0 bg-light">
+              <div className="cardbody">
+                <img src="./Pics/foradop6.jpg" className="img-fluid" alt="Animal 9" />
+              </div>
+            </div>
+          </div>
+          <div className="col-lg-3">
+            <div className="card border-0 bg-light">
+              <div className="cardbody">
+                <img src="./Pics/foradop7.jpg" className="img-fluid" alt="Animal 10" />
+              </div>
+            </div>
+          </div>
+          <div className="col-lg-3">
+            <div className="card border-0 bg-light">
+              <div className="cardbody">
+                <img src="./Pics/foradop8.jpg" className="img-fluid" alt="Animal 11" />
+              </div>
+            </div>
+          </div>
+          <div className="col-lg-3">
+            <div className="card border-0 bg-light">
+              <div className="cardbody">
+                <img src="./Pics/foradop9.jpg" className="img-fluid" alt="Animal 12" />
               </div>
             </div>
           </div>

@@ -3,7 +3,8 @@ import React from "react";
 const Sponser = () => {
   return (
     <>
-      <div className="container">
+    <section className="sponsersec">
+    <div className="container">
         <div className="row">
           <div className="col-lg-12 m-auto text-center mt-4">
             <h3>To keep our services affordable, please consider supporting our work and buy us a bone.</h3>
@@ -15,6 +16,7 @@ const Sponser = () => {
           </div>
         </div>
       </div>
+    </section>
     </>
   );
 };
