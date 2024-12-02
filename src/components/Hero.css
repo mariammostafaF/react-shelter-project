@@ -1,0 +1,22 @@
+/* Hero.css */
+
+.main {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 50% 50%;
+    transition: background-image 1s ease-in-out;
+  }
+  
+  .container {
+    position: relative;
+    z-index: 1; /* Ensure the text and button stay above the background */
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+
+  

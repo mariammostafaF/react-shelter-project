@@ -54,7 +54,7 @@ const Contact = () => {
             </div>
           </div>
           <div className="row mt-4">
-            <div className="col-lg-11 m-auto text-center">
+            <div className="col-lg-6 m-auto text-center">
               <div className="row">
                 <div className="col-lg-4 py-3">
                   <a href="#" className="pb-3">Customer Care</a>

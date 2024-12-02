@@ -46,7 +46,7 @@
     font-family: "Barlow Semi Condensed", sans-serif;
 }
 
-.main{
+/*.main{
     background:url('./Pics/dog2.jpg');
     background-repeat:no-repeat ;
     background-size: cover;
@@ -54,7 +54,7 @@
     width: 100%;
     background-position: 50% 50%;
 
-}
+}*/
 h1{
     font-size: 4rem;
     font-weight:700;
